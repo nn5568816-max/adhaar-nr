@@ -1,0 +1,14 @@
+{
+  "endpoints": {
+    "card_view": "/api/lookup?id=123412341234&format=card",
+    "json_view": "/api/lookup?id=123412341234"
+  },
+  "metadata": {
+    "channel": "https://t.me/priyanshuexploits",
+    "developer": "Priyanshu Gupta ❤️",
+    "service": "National Identity & Directory Engine",
+    "version": "2.0-ULTRA"
+  },
+  "service": "National Identity & Directory Engine",
+  "status": true
+}
